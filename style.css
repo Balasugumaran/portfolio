@@ -43,9 +43,9 @@ body{
 .home{
     display: flex;
     align-items: center;
-/*     background-size: cover; */
-/*     background-position: center; */
-/*     background: url('image1.jpg') no-repeat; */
+    /* background-size: cover;
+    background-position: center;
+    background: url('image1.jpg') no-repeat; */
     height: 100vh;
     padding:0 10%;
 }
